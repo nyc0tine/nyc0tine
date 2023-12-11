@@ -1,0 +1,3 @@
+- 👋 Oi, meu nome é Nycole
+- 👀 Procurando por jovem aprendiz na área de tecnologia
+- 🌱 Iniciada em Python e JavaScript
