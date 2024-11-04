@@ -1,4 +1,3 @@
-- 👋 Oi, meu nome é Nycole
 - 📚 P2 Ciência da Computação
 - 👀 Procurando por estágio na área de tecnologia
 - 🌱 Iniciada em Python, JavaScript, Java, CSS e HTML
