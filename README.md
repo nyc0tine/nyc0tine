@@ -1,4 +1,4 @@
-- 📚 P2 Ciência da Computação
+- 📚 P3 Ciência da Computação
 - 👀 Procurando por estágio na área de tecnologia
 - 🌱 Iniciada em Python, JavaScript, Java, CSS e HTML
 - 🧠 Conhecimento em metodologias ágeis e design
